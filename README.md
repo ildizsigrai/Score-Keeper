@@ -1,3 +1,13 @@
-# Score-Keeper
+# Score Keeper Web App
+This is a simple web application for keeping score in games like ping pong. It provides a clean and responsive user interface using the Bulma CSS framework.
 
-It is a my first JavaScript project, that I coded along with The Web Development Bootcamp.
+# Languages Used
+HTML
+JavaScript
+Enjoy tracking your scores with ease!
+
+# Features
+Keep score for two players.
+Easily set the winning score.
+Reset scores at any time.
+Attractive and responsive user interface using Bulma CSS framework.
