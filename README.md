@@ -4,7 +4,7 @@ This is a simple web application for keeping score in games like ping pong. It p
 # Languages Used
 HTML
 JavaScript
-Enjoy tracking your scores with ease!
+
 
 # Features
 Keep score for two players.
