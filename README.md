@@ -11,3 +11,6 @@ Keep score for two players.
 Easily set the winning score.
 Reset scores at any time.
 Attractive and responsive user interface using Bulma CSS framework.
+
+
+<img width="603" alt="Screenshot 2023-10-11 at 17 01 29" src="https://github.com/ildizsigrai/Score-Keeper/assets/128381088/2e2f1ecf-e016-4d6b-b197-754ce0927b02">
